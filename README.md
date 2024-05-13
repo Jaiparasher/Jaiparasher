@@ -3,7 +3,7 @@ I'm currently working on developing full-stack web applications using ReactJS, N
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jaiparasher/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaiparasher/) 
 [![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://icons8.com/icon/9L16NypUzu38/level-up-your-coding-skills-and-quickly-land-a-job))](https://linkedin.com/in/https://www.linkedin.com/in/jaiparasher/) 
 
 # 💻 Tech Stack:
