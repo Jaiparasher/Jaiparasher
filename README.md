@@ -4,7 +4,7 @@ I'm currently working on developing full-stack web applications using ReactJS, N
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jaiparasher/) 
-[![leetcode]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://imgs.search.brave.com/Z4bDDKGirOdE1wVbm7JIJg6Vcwtsc3Aey_dcXXM3tRA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LWxlZXRjb2RlLTM1/MjE1NDItMjk0NDk2/MC5wbmc_Zj13ZWJw/Jnc9MjU2))]([https://linkedin.com/in/https://www.linkedin.com/in/jaiparasher/](https://leetcode.com/u/jaiparasher30/)) 
+[![leetcode]([[https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://imgs.search.brave.com/Z4bDDKGirOdE1wVbm7JIJg6Vcwtsc3Aey_dcXXM3tRA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LWxlZXRjb2RlLTM1/MjE1NDItMjk0NDk2/MC5wbmc_Zj13ZWJw/Jnc9MjU2)](https://icons8.com/icon/9L16NypUzu38/level-up-your-coding-skills-and-quickly-land-a-job))]([https://linkedin.com/in/https://www.linkedin.com/in/jaiparasher/](https://leetcode.com/u/jaiparasher30/)) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jaiparasher/) 
 
 # 💻 Tech Stack:
